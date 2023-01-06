@@ -1,5 +1,7 @@
 # Gestor APP
 Gestor app, es un administrador de contraseñas personal, el cual estoy desarrollando en mi tiempo libre para tener una mejor gestión de todas las páginas.
+[![sistema.png](https://i.postimg.cc/HsDK7pYc/sistema.png)](https://postimg.cc/G9KzWnsd)
+[![sistema-2.png](https://i.postimg.cc/WbGyGQz9/sistema-2.png)](https://postimg.cc/dL0nvN8d)
 ## Configuración 
 - acceder a la carpeta src/config/config.php y cambiar los datos de la conexión con sus credenciales de MySql.
 - de la misma manera en la carpeta dashboard/config/config.php
