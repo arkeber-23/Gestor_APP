@@ -15,6 +15,6 @@ El sistema consta de:
 - botón de cerrar sesión.
 
 ### En Proceso 
-- Funcionalidad a incorporar:
+Funcionalidad a incorporar:
 - Registrar, editar y eliminar cuentas
 - Registro de usuarios.
