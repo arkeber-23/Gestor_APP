@@ -16,5 +16,5 @@ El sistema consta de:
 
 ### En Proceso 
 - Funcionalidad a incorporar:
--- Registrar, editar y eliminar cuentas
--- Registro de usuarios.
+- Registrar, editar y eliminar cuentas
+- Registro de usuarios.
